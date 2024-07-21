@@ -17,17 +17,11 @@ L'application est divisée en deux parties principales :
 - Utilisation de React pour construire une interface utilisateur réactive et moderne.
 - Utilisation de VAADIN pour les composants d'interface utilisateur.
 
-## Page des personnes
+/images/1.png
+/images/one.png
+/images/two.png
+/images/tree.png
 
-`/images/image2.png`
-
-## Page de chat
-
-`/images/image.png`
-
-## Un autre exemple
-
-`/images/image3.png`
 
 ## Prérequis
 
